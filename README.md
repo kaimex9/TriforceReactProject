@@ -1,4 +1,4 @@
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.inspireuplift.com%2FDabbing-Bacon-Hair-Roblox%2Fiu%2F15379719&psig=AOvVaw0h8OeXWc9U6MM0HQ_0EDzd&ust=1740161727679000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCXpt_t0osDFQAAAAAdAAAAABAE">
+<img src = "https://cdn.inspireuplift.com/uploads/images/seller_products/33495/1705816643_DabbingBaconHairRoblox.png">
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
